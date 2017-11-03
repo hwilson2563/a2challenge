@@ -1,6 +1,4 @@
-
 var user = { email: "coolguy@gmail.com" , password: "ILoveCoffee", name: "Grant Chircus"};
-
 
 function checkLogin() {
   var userName = document.querySelectorAll("input")[0];
